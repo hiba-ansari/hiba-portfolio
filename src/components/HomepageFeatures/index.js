@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'My Projects',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I showcase a variety of both personal and university projects, 
+        ranging from <b>data science, machine learning, game development and full-stack websites</b>. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Who Am I',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Hiba is a <b>self-motivated, analytical and creative student</b> who has a side passion for art and design. 
+        She is always looking for opportunities to <b>improve her technical prowess and build new connections</b>.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Contact Me',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Let's get in touch!
       </>
     ),
   },

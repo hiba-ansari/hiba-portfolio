@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Hello',
-  tagline: 'I am Hiba Ansari',
-  favicon: 'img/favicon.ico',
+  title: "Hiba Ansari's Portfolio",
+  tagline: 'Currently a Bachelor of IT student at RMIT, pursuing Data Science and Creative Computing',
+  favicon: 'img/hibiscus-favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -86,7 +86,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/hibiscus-logo.png',
         },
         items: [
           {
